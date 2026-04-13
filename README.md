@@ -1,4 +1,4 @@
-# EisuuSwitcher
+# EisuuSwitcher（中/日/E readme only）
 
 ## 软件简介
 
